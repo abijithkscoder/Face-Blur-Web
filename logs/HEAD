@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 135478e232a87184c24fb6356505c6dabb465524 abijithks1905 <36009275-abijithks1905@users.noreply.replit.com> 1754696717 +0000	commit (initial): Initial commit
+135478e232a87184c24fb6356505c6dabb465524 3b8caf5bc07dc1a4f2da416d7b0ec341d01fbb55 abijithks1905 <36009275-abijithks1905@users.noreply.replit.com> 1754697105 +0000	commit: Add core functionality for face detection and blurring
+3b8caf5bc07dc1a4f2da416d7b0ec341d01fbb55 3a078b2c9434361a9e6dac7d5c19db43b2a0c122 abijithks1905 <36009275-abijithks1905@users.noreply.replit.com> 1754697305 +0000	commit: Improve webcam functionality by adding error handling and loading states
